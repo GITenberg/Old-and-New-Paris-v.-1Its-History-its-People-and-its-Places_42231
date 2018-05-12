@@ -1,0 +1,31 @@
+_repo: Old-and-New-Paris-v.-1Its-History-its-People-and-its-Places_42231
+_version: 0.1.0
+alternative_title: Paris old & new, v. 1
+covers:
+- cover_type: archival
+  image_path: 42231-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edwards, H. Sutherland (Henry Sutherland)
+    aliases:
+    - Edwards, Henry Sutherland
+    - Edwards, Sutherland
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '39520'
+    url: http://www.gutenberg.org/2009/agents/39520
+description: ''
+gutenberg_issued: '2013-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcsh 'Paris (France) -- History'
+title: 'Old and New Paris: Its History, Its People, and Its Places, v. 1'
+url: http://www.gutenberg.org/ebooks/42231
